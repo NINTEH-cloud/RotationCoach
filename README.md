@@ -1,3 +1,5 @@
+<p align="center"><img src="ninty.png" width="120" alt="Ninty, the mascot of whoa's addons"></p>
+
 # Rotation Coach
 
 A rotation helper for every profession and elite specialization in Guild Wars 2, as a [Raidcore Nexus](https://raidcore.gg/Nexus) addon.
